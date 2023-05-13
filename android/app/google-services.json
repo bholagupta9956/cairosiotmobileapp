@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "542019720556",
+    "project_id": "cairosiot-8b1d3",
+    "storage_bucket": "cairosiot-8b1d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542019720556:android:a8f58f1fc46559e2888f49",
+        "android_client_info": {
+          "package_name": "cairosiot.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542019720556-jqqvg30cj87g8hgemp8l02nbecueq1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4WPuxdJfIRtl98zCgSFzpQxtQ3ucochQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542019720556-jqqvg30cj87g8hgemp8l02nbecueq1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542019720556:android:2c3efce4db3c08fa888f49",
+        "android_client_info": {
+          "package_name": "com.cairosiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542019720556-jqqvg30cj87g8hgemp8l02nbecueq1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4WPuxdJfIRtl98zCgSFzpQxtQ3ucochQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542019720556-jqqvg30cj87g8hgemp8l02nbecueq1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
